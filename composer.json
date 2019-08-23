@@ -1,0 +1,17 @@
+{
+    "name": "marrem\/jwt",
+    "description": "this is create token",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wgq1991827",
+            "email": "965490571@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Marrem\\Jwt\\": "src"
+        }
+    }
+}
